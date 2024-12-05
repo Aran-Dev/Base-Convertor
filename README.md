@@ -10,4 +10,4 @@ A comprehensive number base converter that supports conversions between various 
 ## How to Use
 1. Run the program.  
 2. Enter the number.  
-3. Select the input and output base, then click the desired button.
+3. Select the input base, then click the desired button.
